@@ -1,0 +1,17 @@
+history:
+Version 1.0 stable limited time only (no longer available)
+Get all (weapons & tools)
+Tag all (use this for tagger role)
+unjail all (safer to use in the lobby)
+unfreeze all (safer to use in the lobby)
+Please use the toggle when game is on
+Anti Admin (self explanatory)
+
+
+Version 2.0 beta (no longer available)
+Add Anti AFK
+Removed anti admin
+InvisibleMe set youself to invisible (use in map will auto reset next round)
+Upgrade Coil power (temporary boost power) only equipped coil (useless if your coil is insane or above)
+Improved unfreeze all speed (using different method instead of check tagger is within safe distance from frozen ones)
+Rewrote all script so that majority exploit tool will be able to run the script expanded compatibility
